@@ -14,8 +14,8 @@ const HomePage = () => {
       <img src={profileImage} className="profileImage" />
 
       <p>
-        Shogoです。普段は個人でWeb系の情報発信をYoutubeやTwitterにて行っています。主にHTML/CSS/Javascript/Reactメインに取り扱っています。趣味は個人でプログラミングの撮影を行うことです。
-        Shogoです。普段は個人でWeb系の情報発信をYoutubeやTwitterにて行っています。主にHTML/CSS/Javascript/Reactメインに取り扱っています。趣味は個人でプログラミングの撮影を行うことです。
+        Shogoです。普段は大学で法学を専攻していますが、プログラミングに興味を持ち独学で学習しています。趣味は筋トレです。
+        今年の夏からアメリカにCS専攻で1年間留学します。将来の目標は196カ国全て周り、経験したことから起業をしたいと考えています。
       </p>
 
       <section class="page-section" id="services">
